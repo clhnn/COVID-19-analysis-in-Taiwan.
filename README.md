@@ -13,6 +13,7 @@
 
 檔案內的資料來源由<https://www.aweb.tpin.idv.tw/COVID-19/>取得
 
+## 程式介紹
 ###### 導入所需的模組
 - `pandas`：用於處理 csv 數據庫。
 - `matplotlib`：用於繪製數據圖。
