@@ -10,4 +10,4 @@
 
 ## 資料庫準備
 請下載'diagnosed_dead_data.csv'以及'major_event_data.csv'
-檔案內的資料來源由`https://www.aweb.tpin.idv.tw/COVID-19/`取得
+檔案內的資料來源由[https://www.aweb.tpin.idv.tw/COVID-19/]取得
